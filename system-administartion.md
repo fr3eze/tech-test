@@ -1,4 +1,4 @@
-This tutorial is written in Markdown language, use a Markdown editor to view for best readability. It is available on the link below too:
+This tutorial is written in Markdown language, use a Markdown editor to view for best readability.
 
 
 Digital Ocean's Droplet has been used for demostration purpose on Centos 8
