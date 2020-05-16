@@ -1,8 +1,8 @@
 Technical test for submission
 
-- system-administration:
+system-administration:
   |___system-administartion.md
-- network-administration:
+network-administration:
   |___network-administartion.md
-- monitoring-and-resolution:
+monitoring-and-resolution:
   |___monitoring-and-resolution.md
